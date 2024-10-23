@@ -1,0 +1,1 @@
+I struggled to commit due to not finding repo, and it was complaining about deleted folders and stuff. I initally comitted after each task was completed, but it didn't want to sync to github due to previos mentioned problems.
